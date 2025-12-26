@@ -79,7 +79,7 @@ An embedded real-time system designed to help patients take medicines on time us
 
 ## 📬 Connect With Me
 
-- 🌐 GitHub: https://github.com/YOUR_GITHUB_USERNAME  
+- 🌐 GitHub: https://github.com/karthikvinti  
 - 💼 LinkedIn: www.linkedin.com/in/vinti-karthik-255397284  
 - ✉️ Email: vintikarthik@gmail.com
 
