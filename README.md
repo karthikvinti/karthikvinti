@@ -1,130 +1,90 @@
 <h1 align="center">
-  Hi 👋, I'm Karthik Vinti
+  👋 Hi, I'm Karthik Vinti
 </h1>
-<h2 align="center">
-  🚀 Embedded Systems Engineer | 💻 C Programmer | ⚙️ ARM7 (LPC2148)
-</h2>
+
+<h3 align="center">
+  🚀 Embedded Systems Engineer | 💻 C Programmer | ⚙️ ARM7 (LPC2148,LPC2129)
+</h3>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?
-    font=Fira+Code
-    &size=26
-    &duration=2800
-    &pause=800
-    &color=00F7FF
-    &center=true
-    &vCenter=true
-    &width=720
-    &lines=⚡+Embedded+C+Developer;
-            🧠+ARM7+%7C+LPC2148+Specialist;
-            ⏱️+RTC+Based+System+Designer;
-            🔬+Bare-Metal+Low-Level+Programmer;
-            🚀+Turning+Hardware+into+Smart+Systems"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=00E5FF&center=true&vCenter=true&width=720&lines=⚡+Embedded+C+Developer;🧠+ARM7+%7C+LPC2148+%7C+LPC2129;⏱️+RTC+Based+System+Designer;✨+Turning+Hardware+into+Smart+Systems" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/>
-</p>
+## 🧑‍💻 About Me
+
+🔹 Embedded Systems Engineer passionate about **hardware–software integration**  
+🔹 Strong foundation in **Embedded C** and **bare-metal programming**  
+🔹 Experienced with **RTC, LCD, Keypad, Buzzer, and LED interfacing**  
+🔹 Enjoys **debugging at register level** and optimizing low-level code  
+
+💡 *I believe good embedded systems are simple, reliable, and efficient.*
 
 ---
 
-## 🚀 About Me  
+## 🛠️ Technical Skills
 
-🔹 Passionate **Embedded Systems Developer**  
-🔹 Strong in **Embedded C & Bare-Metal Programming**  
-🔹 Hands-on experience with **RTC, LCD, Keypad, Buzzer, LED**  
-🔹 Enjoys debugging hardware-software interaction  
+### 💻 Programming Languages
+- 🟦 Embedded C  
+- 🟩 Basic C++  
 
-💡 *“Turning hardware ideas into working embedded solutions”*
+### ⚙️ Microcontrollers
+- 🔹 ARM7 – LPC2148  
+- 🔹 Arduino  
 
----
+### 🔌 Embedded Concepts
+- ⏱️ Real-Time Clock (RTC)  
+- ⏲️ Timers & Interrupts  
+- 🔘 GPIO Programming  
+- 📟 LCD & Keypad Interfacing  
+- 🔔 Buzzer & 💡 LED Control  
 
-## 🛠️ Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,linux,git,github" />
-</p>
-
-### 🔧 Embedded Skills  
-- Embedded C  
-- ARM7 (LPC2148)  
-- RTC (Real-Time Clock)  
-- Timers & Interrupts  
-- GPIO / LCD / Keypad Interfacing  
-- Buzzer & LED Control  
+### 🧰 Tools & IDEs
+- 🛠️ Keil µVision  
+- 🧪 Arduino IDE  
+- 🐧 GCC (Linux)  
+- 🌱 Git & GitHub  
 
 ---
 
-## 🕰️ Featured Project  
-### **RTC Based Medicine Reminder System**
+## 🕰️ Featured Project
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300"/>
-</p>
+### 💊 RTC Based Medicine Reminder System
 
-✅ Time, Date & Day Editing  
-⏰ Medicine Reminder Scheduling  
-🔔 Audible Alerts (Buzzer)  
-💡 Visual Alerts (LCD & LED)  
-✔ Confirmation-Based Intake  
-❌ Missed-Dose Detection  
+📝 **Description**  
+An embedded real-time system designed to help patients take medicines on time using RTC-based scheduling and alerts.
 
-**Tech Used:**  
-`LPC2148 | Embedded C | RTC | 16x2 LCD | Matrix Keypad`
+✨ **Key Features**
+- 🕒 Time, date, and day configuration  
+- ⏰ Medicine reminder scheduling  
+- 🔔 Audible alerts using buzzer  
+- 💡 Visual alerts using LCD and LED  
+- ✅ Confirmation-based intake  
+- ❌ Missed-dose indication  
 
----
-
-## 📂 Repository Highlights  
-
-📌 Well-structured Embedded C projects  
-📌 Clear logic & commented source code  
-📌 Hardware-tested implementations  
-📌 Real-world embedded use cases  
+🧠 **Technology Stack**  
+`ARM7 LPC2148 | LPC2129 | Embedded C | RTC | 16×2 LCD | Matrix Keypad`
 
 ---
 
-## 📈 Currently Learning  
+## 📈 Currently Learning
 
-🚀 RTOS Fundamentals  
-🚀 ARM Internal Architecture  
-🚀 Embedded Linux Basics  
-🚀 Driver Optimization  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" width="48%" />
-</p>
+📘 RTOS fundamentals  
+📗 ARM microcontroller internals  
+📙 Embedded Linux basics  
+📕 Low-level driver optimization  
 
 ---
 
-## 🌐 Connect With Me  
+## 📬 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+- 🌐 GitHub: https://github.com/YOUR_GITHUB_USERNAME  
+- 💼 LinkedIn: www.linkedin.com/in/vinti-karthik-255397284  
+- ✉️ Email: vintikarthik@gmail.com
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250"/>
+  ⭐ Thanks for visiting my profile — feel free to star my repositories!
 </p>
-
----
-
-### ⭐ If you like my work, don’t forget to star the repositories!
