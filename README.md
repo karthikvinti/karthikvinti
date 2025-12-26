@@ -25,26 +25,17 @@
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
-- 🟦 Embedded C  
-- 🟩 Basic C++  
+## 🔌 Embedded Systems
 
-### ⚙️ Microcontrollers
-- 🔹 ARM7 – LPC2148  
-- 🔹 Arduino  
+<p>
+  <img src="https://skillicons.dev/icons?i=c,arduino&theme=dark" />
+</p>
 
-### 🔌 Embedded Concepts
-- ⏱️ Real-Time Clock (RTC)  
-- ⏲️ Timers & Interrupts  
-- 🔘 GPIO Programming  
-- 📟 LCD & Keypad Interfacing  
-- 🔔 Buzzer & 💡 LED Control  
-
-### 🧰 Tools & IDEs
-- 🛠️ Keil µVision  
-- 🧪 Arduino IDE  
-- 🐧 GCC (Linux)  
-- 🌱 Git & GitHub  
+- **LPC2148 / LPC21xx**
+- **Embedded C**
+- **Aurdino**
+- **Peripheral Interfacing**
+- **Datasheet-driven Development**
 
 ---
 
