@@ -64,7 +64,7 @@ An embedded real-time system designed to help patients take medicines on time us
 📘 RTOS fundamentals  
 📗 ARM microcontroller internals  
 📙 Embedded Linux basics  
-📕 Low-level driver optimization  
+📕 Debugging techniques
 
 ---
 
